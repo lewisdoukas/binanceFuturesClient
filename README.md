@@ -17,6 +17,11 @@ This is an interface for Binance Futures API for the following utilities:
 2. [Binance Futures API](https://binance-docs.github.io/apidocs/futures/en/#sdk-and-code-demonstration)
 3. [Binance Futures Testnet](https://testnet.binancefuture.com)
 
+# Installation
+Python version >= 3.8.5 is required.  
+  
+`pip3 install -r requirements.txt`
+
 # Usage:
 ```python
 base_url = "https://testnet.binancefuture.com"
